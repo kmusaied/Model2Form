@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Test_Model2Form.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Model2Form Web Control</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://www.manoli.net/csharpformat/csharp.css" />
+    <style type="text/css">
+        .txt_title
+        {
+            font-weight:bold;	
+        }
+    </style>
+    <script type="text/jscript">
+        $(document).ready(function() {
+            $(".csharpcode").hide();
+            $("a#showCode").click(function() {
+                $(".csharpcode").toggle();
+                return false;
+            });
+        });
+        
+    </script>
+</head>
+<body>
+    
+    <div style="width: 700px; border: solid 1px whitesmoke">
+        <div>
+            <h1 style="background-color: Gray; color: White;">
+                Model2Form Web Control
+            </h1><p style="color:Gray;">
+            This conrol will help you to build forms faster</p>
+        </div>
+        <hr />
+        <div>
+            <form id="form1" runat="server">
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            </form>
+            <asp:HyperLink runat="server" NavigateUrl='default.aspx' ID="lnkHome">Back</asp:HyperLink>
+        </div>
+    </div>
+</body>
+</html>

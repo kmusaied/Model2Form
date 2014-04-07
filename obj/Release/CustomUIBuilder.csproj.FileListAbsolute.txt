@@ -1,0 +1,5 @@
+D:\KACST\CustomUIBuilder\bin\Release\CustomUIBuilder.dll
+D:\KACST\CustomUIBuilder\bin\Release\CustomUIBuilder.pdb
+D:\KACST\CustomUIBuilder\obj\Release\ResolveAssemblyReference.cache
+D:\KACST\CustomUIBuilder\obj\Release\CustomUIBuilder.dll
+D:\KACST\CustomUIBuilder\obj\Release\CustomUIBuilder.pdb

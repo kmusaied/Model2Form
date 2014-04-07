@@ -1,0 +1,15 @@
+D:\KACST\CustomUIBuilder\bin\Debug\CustomUIBuilder.dll
+D:\KACST\CustomUIBuilder\bin\Debug\CustomUIBuilder.pdb
+D:\KACST\CustomUIBuilder\bin\Debug\Asp.netPager.dll
+D:\KACST\CustomUIBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\KACST\CustomUIBuilder\obj\Debug\CustomUIBuilder.dll
+D:\KACST\CustomUIBuilder\obj\Debug\CustomUIBuilder.pdb
+D:\KACST\CustomUIBuilder\bin\Debug\UmQuraControl.dll
+D:\KACST\CustomUIBuilder\bin\Debug\UmQuraControl.pdb
+E:\Work\Running Projects\KACST\Code\CustomUIBuilder\bin\Debug\CustomUIBuilder.dll
+E:\Work\Running Projects\KACST\Code\CustomUIBuilder\bin\Debug\CustomUIBuilder.pdb
+E:\Work\Running Projects\KACST\Code\CustomUIBuilder\bin\Debug\UmQuraControl.dll
+E:\Work\Running Projects\KACST\Code\CustomUIBuilder\bin\Debug\UmQuraControl.pdb
+E:\Work\Running Projects\KACST\Code\CustomUIBuilder\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Running Projects\KACST\Code\CustomUIBuilder\obj\Debug\CustomUIBuilder.dll
+E:\Work\Running Projects\KACST\Code\CustomUIBuilder\obj\Debug\CustomUIBuilder.pdb
